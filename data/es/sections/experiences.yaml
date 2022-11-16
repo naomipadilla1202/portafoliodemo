@@ -1,0 +1,39 @@
+# Información de la sección
+section:
+  name: Experiencia
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+ 
+# Tus experiencias
+experiences:
+- company:
+    name: Nombre Compañia.
+    url: "link"
+    overview: "Descripción."
+  positions:
+  - designation: Puesto
+    start: Jan 2022 
+    responsibilities:
+    - Responsabilidad 1
+    - Responsabilidad 2
+    - Responsabilidad 3
+    - Responsabilidad 4
+ 
+- company:
+    name: Nombre Compañia.
+    url: "link"
+    overview: "Descripción."
+  positions:
+  - designation: Puesto
+    start: Jan 2022 
+    end: Feb 2022 
+    responsibilities:
+    - Responsabilidad 1
+    - Responsabilidad 2
+    - Responsabilidad 3
+    - Responsabilidad 4
+ 
+ 
+

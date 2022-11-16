@@ -1,0 +1,27 @@
+# Información de sección
+section:
+  name: Cursos
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+ 
+ 
+# Tus cursos
+accomplishments:
+ 
+- name: "Curso 1" #Nombre del curso
+  timeline: "2022" #Año
+  organization:
+    name: Coursera #Nombre de la organización que da el curso
+    url: "https://es.coursera.org/" #link de la organización
+  courseOverview: "Descripción del curso" #Descripción
+  certificateURL: "https://mx.coursera.org/" #Link del certificado
+ 
+- name: "Curso 2" #Nombre del curso
+  timeline: "2022" #Año
+  organization:
+    name: Coursera #Nombre de la organización que da el curso
+    url: "https://es.coursera.org/" #link de la organización
+  courseOverview: "Descripción del curso" #Descripción
+  certificateURL: "files/certificado.pdf" #Ruta del certificado

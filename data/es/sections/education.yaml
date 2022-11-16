@@ -1,0 +1,54 @@
+# Información de sección
+section:
+  name: Educación
+  id: education
+  template: sections/education.html 
+  enable: true
+  weight: 4
+  showOnNavbar: true
+ 
+degrees:
+- name: Engineering in Data Science and Maths
+  icon: fa-graduation-cap
+  timeframe: 2020-2024
+  institution:
+    name: Tec de Monterrey Campus Estado de México
+    url: "Link"
+  grade:
+    scale: Promedio
+    achieved: 97
+    outOf: 100
+  extracurricularActivities:
+  - "Extracurricular 1"
+  - "Extracurricular 2"
+  - "Extracurricular 3"
+ 
+ 
+- name: Preparatoria
+  icon: fa-university
+  timeframe: 2017-2020
+  institution:
+    name: Prepa Tec campus Estado de México
+    url: "Link"
+  grade: 
+    scale: Promedio
+    achieved: 92
+    outOf: 100
+  takenCourses: 
+    showGrades: true
+    collapseAfter: 4
+    courses:
+    - name: Matemáticas
+      achieved: 9
+      outOf: 10
+    - name: Programación
+      achieved: 9
+      outOf: 10
+    - name: Biología
+      achieved: 9
+      outOf: 10
+  extracurricularActivities:
+  - "Extracurricular 1"
+  - "Extracurricular 2"
+  - "Extracurricular 3"
+ 

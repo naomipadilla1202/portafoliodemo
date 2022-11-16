@@ -1,0 +1,31 @@
+# Nombre completo
+name: "Nombre Apellido1 Apellido2"
+ 
+# Apodo, o sólo cómo te gusta que te digan
+nickname: "Nombre"
+ 
+# Saludo inicial antes de tu apodo
+greeting: "Hi, I am"
+ 
+# Imagen de ti
+image: "images/author/profile.png"
+ 
+# Información de contacto
+contactInfo:
+  email: "correo@gmail.com"
+  phone: "5512345678"
+  linkedin:
+    icon: linkedin
+    url: "link de linkedin"
+    text: "Texto"
+ 
+ 
+# Descripción de ti
+summary:
+  - I am a Data Scientist
+  - I am a ...
+  - I am a ...
+  - I am a ...
+  - I am a ...
+  - I am a ...
+  - I am a ...

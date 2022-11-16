@@ -1,0 +1,27 @@
+# Información de sección
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 8
+  showOnNavbar: true
+ 
+# Tus logros
+achievements:
+- title: Logro 1 #Nombre del Logro
+  image: /images/achievements/logro.jpg #Imagen
+  summary: Descripción corta. #Descripción corta
+  
+- title: Logro 2 #Nombre del Logro
+  image: /images/achievements/logro.jpg #Imagen
+  summary: Descripción corta. #Descripción corta
+ 
+- title: Logro 3 #Nombre del Logro
+  image: /images/achievements/logro.jpg #Imagen
+  summary: Descripción corta. #Descripción corta
+  
+- title: Logro 4 #Nombre del Logro
+  image: /images/achievements/logro.jpg #Imagen
+  summary: Descripción corta. #Descripción corta
+ 
+

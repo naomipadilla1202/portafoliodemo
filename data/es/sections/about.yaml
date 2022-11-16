@@ -1,0 +1,52 @@
+# Información de la sección
+section:
+  name: Acerca de mi
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+ 
+# Tu puesto / Tu semestre
+designation: Ingeniería en Ciencia de Datos y Matemáticas
+ 
+# Información de tu compañía / Escuela
+company:
+  name: Tec de Monterrey.
+  url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
+ 
+# Tu CV
+resume: "files/cv_es.pdf"
+ 
+# Resumen de ti
+summary: "Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga."
+ 
+# Links a redes sociales
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "Link github personal"
+ 
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "Link linkedin personal"
+ 
+- name: Email
+  icon: "fas fa-envelope"
+  url: "correo@gmail.com"
+ 
+# Insignias de hard skills y soft skills
+badges:
+ 
+# Ejemplo soft skill
+- type: soft-skill-indicator
+  name: Liderazgo #Nombre de soft skill
+  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  color: blue #Color
+ 
+# Ejemplo insignia (hard-skill)
+- type: certification
+  name: Applied Data Science with Python #Nombre de insignia
+  url: "https://www.credly.com/badges/" #Link de la insignia
+  badge: "https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" #Link imagen
+ 
